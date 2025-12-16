@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/1198/l/url-manager-pro-logo.png?v=1671019124" width="200" alt="URL Manager Pro application icon"><br>
+<img src="https://tidbits.com/uploads/2020/01/URL-Manager-5.png" width="200" alt="URL Manager Pro application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/URL Manager Pro">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open URL Manager Pro macOS product page">
 </a><br><br>
